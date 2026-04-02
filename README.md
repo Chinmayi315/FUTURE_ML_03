@@ -1,7 +1,5 @@
 # Resume / Candidate Screening System
 
-## 📌 Machine Learning Task 3 – Future Interns
-
 This project builds an intelligent Resume Screening System that automatically evaluates and ranks resumes based on a given job description using Natural Language Processing (NLP) and Machine Learning techniques.
 
 ---
